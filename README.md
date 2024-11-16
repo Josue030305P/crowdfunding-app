@@ -1,4 +1,4 @@
-# YONDA Crowdfunding
+# Crowdfunding
 
 Este es un proyecto de crowdfunding desarrollado con React.
 
@@ -16,7 +16,7 @@ Este es un proyecto de crowdfunding desarrollado con React.
 
 2. Navega al directorio del proyecto:
    ```
-   cd crowdfunding.app   ```
+   cd crowdfunding.app   
 
 3. Instala las dependencias:
    ```
