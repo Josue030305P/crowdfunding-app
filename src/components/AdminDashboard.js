@@ -1,11 +1,11 @@
 import React from 'react';
 
 const projects = [
-  { id: 1, title: "Eco-Friendly Water Bottle", status: "Aprobado" },
-  { id: 2, title: "Smart Home Garden", status: "Pendiente" },
-  { id: 3, title: "Educational VR Game", status: "Rechazado" },
-  { id: 4, title: "Sustainable Fashion Line", status: "Aprobado" },
-  { id: 5, title: "Community Art Project", status: "Pendiente" },
+  { id: 1, title: "Botella de agua ecológica", status: "Aprobado" },
+  { id: 2, title: "Jardín de casa inteligente", status: "Pendiente" },
+  { id: 3, title: "Juego educativo de realidad virtual", status: "Rechazado" },
+  { id: 4, title: "Línea de Moda Sostenible", status: "Aprobado" },
+  { id: 5, title: "Proyecto de arte comunitario", status: "Pendiente" },
 ];
 
 function AdminDashboard() {
