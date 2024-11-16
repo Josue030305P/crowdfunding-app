@@ -16,8 +16,7 @@ Este es un proyecto de crowdfunding desarrollado con React.
 
 2. Navega al directorio del proyecto:
    ```
-   cd yonda-crowdfunding
-   ```
+   cd crowdfunding.app   ```
 
 3. Instala las dependencias:
    ```
@@ -34,18 +33,8 @@ npm start
 
 Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
 
-## Construcción para producción
-
-Para construir la aplicación para producción:
-
-```
-npm run build
-```
-
-Esto creará una carpeta `build` con los archivos optimizados para producción.
 
 
+## Desarrollado por
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Josué Isai Pilpe.
