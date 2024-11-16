@@ -11,7 +11,7 @@ Este es un proyecto de crowdfunding desarrollado con React.
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/tu-usuario/yonda-crowdfunding.git
+   git clone https://github.com/Josue030305P/crowdfunding-app
    ```
 
 2. Navega al directorio del proyecto:
